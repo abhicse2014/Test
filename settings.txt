@@ -3,7 +3,7 @@
 		"roads":{
                     "type":"ArcGISCache",
                     "url": "https://services.thelist.tas.gov.au/arcgis/rest/services/Basemaps/Topographic/MapServer",
-                    "resolutions" : [156543.03392800014, 
+                    "resolutions" : [156543.03	392800014, 
                     		78271.51696399994, 
                     		39135.75848200009, 
                     		19567.87924099992, 
